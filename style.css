@@ -3,8 +3,8 @@ body {
 }
 
 .container {
-    height: 100vh;
-    width: 130vh;
+    height: 90vh;
+    width: 120vh;
     padding: 10px;
     margin: auto;
     border: 1px solid ;
@@ -15,8 +15,8 @@ body {
 
 
 img {
-    border: 2px solid whitesmoke;
-    margin-top: 40px;
+    border: 4px solid whitesmoke;
+    margin-top: 50px;
 }
 
 
@@ -51,7 +51,7 @@ main{
 
  p {
     font-weight:;
-    font-size: 1.1em;
+    font-size: 1.em;
 }
 
 
