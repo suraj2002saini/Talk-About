@@ -9,7 +9,7 @@ body {
     margin: auto;
     border: 1px solid ;
     margin-top: 40px;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: "Oswald", sans-serif;
     
 }
 
@@ -54,4 +54,12 @@ main{
     font-size: 1em;
 }
 
+.fa-star {
+    color: yellow;
+    font-size: 50px;
+}
 
+
+h2 {
+    font-family: "Playwrite NZ Basic", cursive;
+}
